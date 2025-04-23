@@ -18,3 +18,8 @@ Run in the terminal.
 ```python
 python ThreadCloser.py
 ```
+
+### Commands
+
+open
+close
